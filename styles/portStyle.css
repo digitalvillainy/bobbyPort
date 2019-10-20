@@ -1,0 +1,3 @@
+.is-vertical > .tile {
+    -ms-flex-preferred-size: auto; /* IE 11 fix */
+}
